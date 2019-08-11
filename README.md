@@ -1,7 +1,2 @@
 # Libraries
-* Pandas
-* Numpy
-* Seaborn
-* Opencv
-* Pillow
-* Plotly
+Pandas, Numpy, Seaborn, Opencv, Pillow, Plotly & NLTK
